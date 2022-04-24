@@ -4,7 +4,7 @@ title: Core i5 3470 Gaming PC - HP PRO 3500 3rd Generation - Processor Upto 3.60
   GHz - 8GB RAM DDR3 - 500GB HDD
 date: 2022-04-24T06:55:35.486Z
 description: Installed Size8 GB
-featuredpost: true
+featuredpost: false
 featuredimage: /img/76bf0ce37f43fdbcf5bab9978abf9b9a.jpg
 tags:
   - Installed Size8 GB
