@@ -9,7 +9,11 @@ featuredimage: /img/76bf0ce37f43fdbcf5bab9978abf9b9a.jpg
 tags:
   - Installed Size8 GB
 ---
-Product details of Core i5 3470 Gaming PC - HP PRO 3500 3rd Generation - Processor Upto 3.60 GHz - 8GB RAM DDR3 - 500GB HDD
+Product details of Core i5 3470 Gaming PC - HP PRO 3500 3rd Generation - 
+
+![](/img/76bf0ce37f43fdbcf5bab9978abf9b9a.jpg)
+
+Processor Upto 3.60 GHz - 8GB RAM DDR3 - 500GB HDD
 
 HP PRO 3500
 Intel Core i5 3470: 3.20 GHz
